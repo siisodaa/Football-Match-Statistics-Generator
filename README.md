@@ -41,12 +41,6 @@ This project demonstrates how to use a Generative Adversarial Network (GAN) to g
     ```bash
     pip install -r requirements.txt
     ```
-
-### Usage
-
-1. To generate synthetic data using the GAN, run the generate_data file:
-    ```python
-    python generate_data.py
     ```
 
 2. Run the script:
