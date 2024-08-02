@@ -1,5 +1,4 @@
-
-# GAN for Synthetic Football Match Statistics Data Generation
+# GAN for Synthetic Data Generation
 
 This project demonstrates how to use a Generative Adversarial Network (GAN) to generate synthetic data based on an Excel dataset. The GAN consists of a Generator and a Discriminator with more layers and neurons for better performance.
 
@@ -45,9 +44,9 @@ This project demonstrates how to use a Generative Adversarial Network (GAN) to g
 
 ### Usage
 
-1. To generate synthetic data using the GAN, update the file path in the script to point to your Excel file:
+1. To generate synthetic data using the GAN, run the generate_data file:
     ```python
-    file_path = '/content/final.xlsx'  # Update with the correct path to your file
+    python generate_data.py
     ```
 
 2. Run the script:
