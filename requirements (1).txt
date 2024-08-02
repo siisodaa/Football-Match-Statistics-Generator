@@ -1,6 +1,6 @@
-
 torch
-transformers
-datasets
-tqdm
 pandas
+numpy
+tqdm
+matplotlib
+pickle5
